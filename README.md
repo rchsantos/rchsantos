@@ -37,9 +37,9 @@
 
 ### 🌱 **Projets en Cours**
 
-- **PorffolioPulse:** Application pour la gestion et le contrôle de portefeuilles financiers utilisant Python 3.11, FastAPI, GraphQL pour le backend, et React Native pour le frontend.
-  
-- **Python Autoformation:** Actuellement en cours de formation autodidacte en Python pour renforcer mes compétences back-end.
+- **PorffolioPulse :** Application pour la gestion et le contrôle de portefeuilles financiers utilisant Python 3.11, FastAPI, GraphQL pour le backend, et React Native pour le frontend.
+- **Python Data Analysis :** Actuellement en cours de formation certifiant chez  Nomades advanced_technologies 
+- **Python Autoformation :** Actuellement en cours de formation autodidacte en Python pour renforcer mes compétences back-end.
 
 ---
 
