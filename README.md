@@ -15,9 +15,9 @@
 - **Front-end:** HTML, CSS (LESS, SASS), JavaScript (TypeScript, React, Angular), Bootstrap, Foundation
 - **Back-end:** PHP 7/8, Symfony, Laravel, Node.js, Express.js, Python
 - **DevOps:** Docker, Kubernetes, Jenkins CI, Git, GitHub, GitLab
-- **Bases de données:** MySQL, PostgreSQL, MongoDB
+- **Bases de données:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Mobile:** Ionic, React Native
-- **API & Services Web:** RESTful API, GraphQL
+- **API & Services Web:** RESTful API, GraphQL, Flask, FastAPI
 - **Outils de développement:** PHPStorm, VSCode, PyCharm
 - **Gestion de projet:** Agile (Jira, Asana)
 
